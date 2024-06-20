@@ -1,0 +1,14 @@
+:not(input) {
+  user-select: none;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 450px;
+  height: 650px;
+  gap: 10px;
+}
+img {
+  width: 100px;
+  height: 200px;
+}
